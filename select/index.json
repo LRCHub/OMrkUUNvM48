@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "1,000,000 TIMES feat. chelly (EGOIST)",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2025-12-04T13:21:23.135917Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1,000,000 Watts Of Love",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/01_1,000,000_Watts_Of_Love_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1,000,000 Kisses",
+      "artist": "Half Japanese",
+      "has_synced": true,
+      "path": "select/02_1,000,000_Kisses_Half_Japanese.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1,000,000 TIMES feat. chelly (EGOIST)",
+      "artist": "MY FIRST STORY feat. chelly (EGOIST)",
+      "has_synced": true,
+      "path": "select/03_1,000,000_TIMES_feat._chelly_(EGOIST)_MY_FIRST_STORY_feat._chelly_(EGOIST).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1,000,000 Miles Away",
+      "artist": "Black Label Society",
+      "has_synced": false,
+      "path": "select/04_1,000,000_Miles_Away_Black_Label_Society.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "1,000,000 Miles Away",
+      "artist": "Zakk Wylde",
+      "has_synced": false,
+      "path": "select/05_1,000,000_Miles_Away_Zakk_Wylde.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "1,000,000 Years B.C.",
+      "artist": "Misfits",
+      "has_synced": true,
+      "path": "select/06_1,000,000_Years_B.C._Misfits.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1,000,000 Died to Make This Sound",
+      "artist": "A Silver Mt. Zion",
+      "has_synced": true,
+      "path": "select/07_1,000,000_Died_to_Make_This_Sound_A_Silver_Mt._Zion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "1,000,000 Died To Make This Sound",
+      "artist": "Thee Silver Mt. Zion Memorial Orchestra & Tra-La-La Band",
+      "has_synced": true,
+      "path": "select/08_1,000,000_Died_To_Make_This_Sound_Thee_Silver_Mt._Zion_Memorial_Orchestra_&_Tra-La-La_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "1.000.000 Lightyears",
+      "artist": "Amaranthe",
+      "has_synced": true,
+      "path": "select/09_1.000.000_Lightyears_Amaranthe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Una Su 1.000.000",
+      "artist": "Alex Britti",
+      "has_synced": true,
+      "path": "select/10_Una_Su_1.000.000_Alex_Britti.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1.000.000 Times - unplugged) (live",
+      "artist": "Die Happy",
+      "has_synced": false,
+      "path": "select/11_1.000.000_Times_-_unplugged)_(live_Die_Happy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1.000.000 Times (unplugged live)",
+      "artist": "Die Happy",
+      "has_synced": false,
+      "path": "select/12_1.000.000_Times_(unplugged_live)_Die_Happy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If I Had $1,000,000",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/13_If_I_Had_$1,000,000_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Una Su 1.000.000",
+      "artist": "Alex Britti",
+      "has_synced": true,
+      "path": "select/14_Una_Su_1.000.000_Alex_Britti.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "1,000,000 Years from Today",
+      "artist": "Astral Projection",
+      "has_synced": false,
+      "path": "select/15_1,000,000_Years_from_Today_Astral_Projection.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "If I Had $1,000,000",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/16_If_I_Had_$1,000,000_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1,000,000 TIMES",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_1,000,000_TIMES_MY_FIRST_STORY.txt"
+    }
+  ]
+}
